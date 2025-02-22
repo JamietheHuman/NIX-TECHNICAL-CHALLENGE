@@ -1,9 +1,9 @@
 # NIX TECHNICAL CHALLENGE
 
 ## Features
-- **Atmospheric Horror** – Experience chilling environments and unsettling sound design.
-- **Survival Mechanics** – Use your flashlight wisely and conserve your stamina.
-- **Combat & Stealth** – Choose to fight or hide from the lurking terrors.
+- **Atmosphere** - Shaders, lighting and post processing. 
+- **Combat Mechanics** – Flashlight and pistol.
+- **Audio** - SFX and ambience. 
 
 ## Controls
 - **Move** – `W A S D`
