@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Intractable
+  - Door
+  - Enemy
+  - Health
+  - Ammo
+  - Block
+  - Key
+  - NextLevel
+  - Gun
+  - Boss
+  - Save
+  - NextLevel2
+  - Credits
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - items
+  - Player
+  - Enemies
+  - Doors
+  - cull1
+  - cull2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
