@@ -1,6 +1,4 @@
-# RIVER VIEW
-
-**Riverview**
+# NIX TECHNICAL CHALLENGE
 
 ## Features
 - **Atmospheric Horror** – Experience chilling environments and unsettling sound design.
